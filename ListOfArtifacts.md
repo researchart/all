@@ -7,7 +7,7 @@ Note also that research artifacts can be _smaller_ than a research paper (i.e. o
 
 If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
 
-1._ Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis;
+1._ Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis; 
 1. _Hypotheses_,  about expected effects in some area;
 1. _Checklists _used to design the analysis (see also, the [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/);
 1. _Bibliographies_, some of which might be annotated;
