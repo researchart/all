@@ -1,5 +1,7 @@
 # List of known artifact types
 
+<img src="img/list.jpg" width=500 align=right>
+
 Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
 
 The following list is sorted by artifact size, from  _smaller_ to _bigger_. 
