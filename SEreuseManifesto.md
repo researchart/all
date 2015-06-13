@@ -20,7 +20,6 @@ The list of useful  “things” is  quite broad ranging and includes
        + e.g. a tutorial that explains complex research results to a generalist industrial audience;
        + e.g. the data associated with a challenge problem that represents the state of the art in some area.
 
-<br clear=all>
 ## The New Idea
 
 We argue for researchers to write their papers in "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.
