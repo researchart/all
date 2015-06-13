@@ -3,7 +3,7 @@
 <em>Tim Menzies  
 Thomas Zimmermann  
 Emerson Murphy-Hill   
-Andrian Marcus<em>      
+Andrian Marcus</em>      
 
 **In this manifesto, we argue for researchers to write their papers in "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.**
 
