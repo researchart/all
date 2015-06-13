@@ -8,11 +8,14 @@ Thomas Zimmermann
 Emerson Murphy-Hill   
 Andrian Marcus</em>      
 
-<img src="img/guillotine.jpg" align=right width=300>
+**If we take a more realistic view of software engineering research, and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can open up and democratize the reserach process.**
+
+________
+
+<img src="img/guillotine.jpg" align=right width=500>
 
 _A belief is like a guillotine, just as heavy, just as light._ -- Frank Kafta
 
-**If we take a more realistic view of softwre engineering research, and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can open up and democratize the reserach process.**
 
 We say this since the traditional notion of the _research paper_ is 
  over-engineered,   too elaborate and  arcane, and too labor intensive to produce. 
