@@ -8,10 +8,18 @@ Thomas Zimmermann
 Emerson Murphy-Hill   
 Andrian Marcus</em>      
 
-## Overview
+<img src="img/cut.jpg" align=right width=250>
 
-<img src="img/breakfree.jpg" align=right width=250>
-We seek to demystify research results and make them available to a much broader audience. Normally, researchers write papers and present them at  conferences. But conferences should be more than about papers. Rather, they should be a place to visit to find “things” taht can be reused  for a wide range of tasks. 
+_A belief is like a guillotine, just as heavy, just as light._ -- Frank Kafta
+
+**If we take a more realistic view of softwre engineering research, and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can open up and democratize the reserach process.**
+
+We say this since the traditional notion of the _research paper_ is 
+ over-engineered,   too elaborate and  arcane, and too labor intensive to produce. 
+
+So we should send reserach papers to the guillotine. Chop them up, liberate their ideas, spread them around, and give a broader audience access to their produce. Vive la révolution.
+
+Why?  We miust  demystify research results and make them available to a much broader audience. Normally, researchers write papers and present them at  conferences. But conferences should be more than about papers. Rather, they should be a place to visit to find “things” taht can be reused  for a wide range of tasks. 
 
 The list of potentially reusable  “things” is  quite broad ranging and includes
 
@@ -20,15 +28,14 @@ The list of potentially reusable  “things” is  quite broad ranging and inclu
        + e.g. a tutorial that explains complex research results to a generalist industrial audience;
        + e.g. the data associated with a challenge problem that represents the state of the art in some area.
 
-### The New Idea
+Our idea:
 
-We argue for researchers to write their papers in on-line, frelly accessible "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.
++  Researchers should write their papers in on-line, frelly accessible "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.
++ We rush to add that it is something that many reserachers are doing already. E.g. many SE reserachers develop papers using on-line tools that integrate to, say, Github. Those reserachers are already dividing their _words_ into one repo per paper.
++ We only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others.
++ But we would further ask that the international research community changes its reveiew practices and allows for the seperate peer review of  any or all research artifacts within those repos.
 
-### Not Really a New Idea
-
-Note that we call this a _new idea_ but rush to add that it is something that many reserachers are doing already. E.g. many SE reserachers develop papers using on-line tools that integrate to, say, Github. Those reserachers are already dividing their _words_ into one repo per paper; we only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others.
-
-## Details
+## Some Theory
 
 For years, software engineering research has lamented the lack of repeated results. Yet the art of software engineering continues to evolve. Today we can build bigger software systems, used by more people, that run on more computers, than ever before. Why? How?
 
@@ -75,8 +82,5 @@ Worse, for industrial practitioners, current practice means that they cannot joi
 + To better integrate industry into research debates, we need to reduce the effort associated with the next paragraph in that debate (e.g. by allowing peer review on smaller sets of reserach artifacts).
 + Also, we need some way for industry to suggest promising directions for that research (e.g. by offering to community motivcational statemetns and data for challenge problems).
 
-## The Road Ahead
 
-_A belief is like a guillotine, just as heavy, just as light._ -- Frank Kafta
 
-If we take a more realistic view and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can open up and democratize the reserach process. We need to send reserach papers to the guillotine. Chop them up, spread them around, give a broader audience access to their produce. Research repositories rule. Vive la révolution
