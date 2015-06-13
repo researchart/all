@@ -2,9 +2,10 @@
 
 Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
 
+The following list is sorted by artifact size, from  _smaller_ to _bigger_. 
 Note also that research artifacts can be _smaller_ than a research paper (i.e. one paper can contain many artifacts) or _bigger_ (e.g. a paper might use soem scripts or data)
 
-The following list is sorted from smaller to bigger:
+If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
 
 1. Motivational statements   or reports or challenge statements or lists of open issues that prompt an analysis;
 1. Hypotheses,  about expected effects in some area;
@@ -37,4 +38,3 @@ The following list is sorted from smaller to bigger:
     +  Virtual machines containing all the above scripts, data, etc, pre-configured such that a newcomer can automatically run the old analysis.
 
  
-If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
