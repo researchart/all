@@ -8,7 +8,7 @@ Thomas Zimmermann
 Emerson Murphy-Hill   
 Andrian Marcus</em>      
 
-<img src="img/cut.jpg" align=right width=250>
+<img src="img/guillotine.jpg" align=right width=300>
 
 _A belief is like a guillotine, just as heavy, just as light._ -- Frank Kafta
 
