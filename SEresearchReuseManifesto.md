@@ -43,7 +43,7 @@ So our  idea is as follows:
 +  Researchers should write their papers in on-line, freely accessible "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.
 + We rush to add that it is something that many reserachers are doing already. E.g. many SE reserachers develop papers using on-line tools that integrate to, say, Github. Those reserachers are already dividing their words into one repo per paper.
 + We only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others.
-+ But we would further ask that the international research community changes its reveiew practices and allows for the seperate peer review of  any or all research artifacts within those repos.
++ And we would further ask that the international research community changes its reveiew practices and allows for the seperate peer review of  any or all research artifacts within those repos.
 
 ## Some Theory
 
