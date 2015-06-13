@@ -47,7 +47,7 @@ So our  idea is as follows:
 
 ## Some Theory
 
-For years, software engineering research has lamented the lack of repeated results. Yet the art of software engineering continues to evolve. Today we can build bigger software systems, used by more people, that run on more computers, than ever before. Why? How?
+For years, software engineering research has lamented the lack of repeated results. Yet the art of software engineering continues to evolve. Today we can build bigger software systems, used by more people, that run on more computers, than ever before. Why? How? We must be doing something right, even if we are not achieving the goal of repeatable results.
 
 Perhaps we have misunderstood _repeatable_, at least in the context of software.
 
@@ -59,7 +59,7 @@ to that of today. Tomorrow, when we use software, we many be using different too
 Perhaps instead of _repeatbality_, we need to talk about partial _reusability_. That is, we want to read each other's code,
 check out each other's systems, since it is possible that _some part_ of what they did is relevant to what we want to accomplish today. 
 
-In this "reusability" mode, we take a hammer to prior products and cut them up into many pieces. These become menu items that we build new stuff by mixing and matching (or ignoring) some parts of old stuff.
+In this _reusability_ approach, we take a hammer to prior products and cut them up into many pieces. These become menu items that we build new stuff by mixing and matching (or ignoring) some parts of old stuff.
 
 To support that kind of _reuse_, we take a second look at _research artifact_. Such artifacts many be _smaller_ or _bigger_ than a single reserach paper: 
 
