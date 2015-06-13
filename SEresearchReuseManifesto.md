@@ -19,6 +19,12 @@ _A belief is like a guillotine, just as heavy, just as light._ -- Frank Kafta
 
 The traditional notion of the _research paper_ is 
  over-engineered,   too elaborate and  arcane, and too labor intensive to produce. 
+ As a result:
+ 
++ Our industrial partners are locked out of research debates since they do not have time to write these ridiculously elaborate papers.
++ Researchers spent far too much time writing papers, when they should be creating new results.
+
+
 
 We should send reserach papers to the guillotine. Chop them up, liberate their ideas, spread them around, thus granting
 broader access to their various parts.  Vive la révolution.
