@@ -29,7 +29,7 @@ The traditional notion of the _research paper_ is
 We should send reserach papers to the guillotine. Chop them up, liberate their ideas, spread them around, thus granting
 broader access to their various parts.  Vive la révolution.
 
-Why?  We miust  demystify research results and make them available to a much broader audience. Normally, researchers write papers and present them at  conferences. But conferences should be more than about papers. Rather, they should be a place to visit to find “things” taht can be reused  for a wide range of tasks. 
+If we divide research papers into  their smaller, more managable,  parts then this will revolutionize the computer science concept of _a conference_.  Normally, researchers write papers and present them at  conferences at which time most of their ideas are viewed once, then never used again.  This is wrong- conferences should be more than about academics strutting about on stage presenting arcane research results. Rather, they should be a place to visit to find “things” that can be reused  for a wide range of tasks. 
 
 The list of potentially reusable  “things” is  quite broad ranging and includes
 
