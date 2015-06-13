@@ -1,4 +1,5 @@
-# The SE Research Reuse Manifesto
+
+# The SE Research Reuse Manifesto <img src="img/breakfree.jpg" align=right size=300>
 
 <em>Tim Menzies  
 Thomas Zimmermann  
