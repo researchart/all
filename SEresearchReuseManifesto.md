@@ -17,10 +17,10 @@ ________
 _A belief is like a guillotine, just as heavy, just as light._ -- Frank Kafta
 
 
-We say this since the traditional notion of the _research paper_ is 
+The traditional notion of the _research paper_ is 
  over-engineered,   too elaborate and  arcane, and too labor intensive to produce. 
 
-So we should send reserach papers to the guillotine. Chop them up, liberate their ideas, spread them around, and give a broader audience access to their produce. Vive la révolution.
+We should send reserach papers to the guillotine. Chop them up, liberate their ideas, spread them around, and give a broader audience access to their produce. Vive la révolution.
 
 Why?  We miust  demystify research results and make them available to a much broader audience. Normally, researchers write papers and present them at  conferences. But conferences should be more than about papers. Rather, they should be a place to visit to find “things” taht can be reused  for a wide range of tasks. 
 
