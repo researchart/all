@@ -8,7 +8,7 @@ Thomas Zimmermann
 Emerson Murphy-Hill   
 Andrian Marcus</em>      
 
-## Motivation
+## Overview
 
 <img src="img/breakfree.jpg" align=right width=250>
 We seek to demystify research results and make them available to a much broader audience. Normally, researchers write papers and present them at  conferences. But conferences should be more than about papers. Rather, they should be a place to visit to find “things” that are useful for a wide range of tasks. 
@@ -20,11 +20,11 @@ The list of useful  “things” is  quite broad ranging and includes
        + e.g. a tutorial that explains complex research results to a generalist industrial audience;
        + e.g. the data associated with a challenge problem that represents the state of the art in some area.
 
-## The New Idea
+### The New Idea
 
 We argue for researchers to write their papers in "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.
 
-## Not Really a New Idea
+### Not Really a New Idea
 
 Note that we call this a _new idea_ but rush to add that it is something that many reserachers are doing already. E.g. many SE reserachers develop papers using on-line tools that integrate to, say, Github. Those reserachers are already dividing their _words_ into one repo per paper; we only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others.
 ## Details
