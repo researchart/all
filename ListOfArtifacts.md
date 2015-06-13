@@ -3,7 +3,7 @@
 Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
 
 The following list is sorted by artifact size, from  _smaller_ to _bigger_. 
-Note also that research artifacts can be _smaller_ than a research paper (i.e. one paper can contain many artifacts) or _bigger_ (e.g. a paper might use soem scripts or data)
+Note also that research artifacts can be _smaller_ than a research paper (i.e. one paper can contain many artifacts) or _bigger_ (e.g. a paper might use some scripts or data)
 
 If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
 
