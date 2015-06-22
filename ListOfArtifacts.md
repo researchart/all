@@ -1,9 +1,9 @@
-# List of known artifact types
+# List of known research artifact types
 
 <img src="img/list.jpg" width=400 align=right>
 
 
-For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
+For a discussion on why we might want to divide our work in to the following research artifacts, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
  
 **IMPORTANT NOTE:** This list is not exhaustive. In fact, we store it here on Github so that the broader community can refine this document. So if your artifact is not included in the above, then write an issue in this repo to propose a new artifact type:
 
