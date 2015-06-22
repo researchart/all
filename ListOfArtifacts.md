@@ -1,15 +1,37 @@
 # List of known artifact types
 
 <img src="img/list.jpg" width=400 align=right>
+ 
+For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
+ 
+**IMPORTANT NOTE:** This list is not exhaustive. In fact, we store it here on Github so that the broader community can refine this document. So if your artifact is not included in the above, then write an issue in this repo to propose a new artifact type:
 
-Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
+## About Artifacts
 
-The following list is sorted by artifact size, from  _smaller_ to _bigger_. 
-Note also that research artifacts can be _smaller_ than a research paper (i.e. one paper can contain many artifacts) or _bigger_ (e.g. a paper might use some scripts or data)
+Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). 
 
-Note that the shorter the artifact, the great the onus on the author for demonstrating that the artifact is worthy. For example for _ant-patterns_, there needs to be some support text and/or results arguing that it is an anti-pattern actually seen in practice and that the anti-pattern is a significant problem.
+The following list is sorted by artifact size, from  _smaller_ to _bigger_. About two-thirds the way through the list we arrive at  "_the actual text   of an author's paper_" so:
 
-If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
++ All the itemes _before_ that point are generally _smaller_ in size 
+  than a standard research paper (i.e. 10pt, two column, 10 pages).
++ All the items _after_ that point are _bigger_ than a research 
+  (e.g. a paper might use some scripts or data)
+
+## Justifying a new artifact
+
+An author of an artifact has to offer some _commentary_ on why  a particular artifact is _worthy_ of consideration. 
+We recommend a short (say, one page) commentary explaining why anyone else should care about the artifact. That commentary should include
+
++ Synopsis, authors' contact details.
++ Optinally, consider applying the standard “Design Patterns” Coplien template to explain the artifact (name, context,  forces, solution, resulting context, rationale; for examples, see https://goo.gl/WJFmX1)
++ For large  artifacts, add the download site.
++ For smaller paper-based artifacts, attached the artifact itself to the end of the justification.
+
+Note that the _shorter_ the artifact, the great the onus on the author for demonstrating that the artifact is worthy. 
+
++ For example for _ant-patterns_, there needs to be some support text and/or results arguing that it is an anti-pattern actually seen in practice and that the anti-pattern is a significant problem.
+
+## List of artifacts
 
 1. _Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis; 
 1. _Hypotheses_,  about expected effects in some area;
