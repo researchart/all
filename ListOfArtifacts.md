@@ -6,7 +6,9 @@ For a discussion on why we might want to divide our work in to the following are
  
 **IMPORTANT NOTE:** This list is not exhaustive. In fact, we store it here on Github so that the broader community can refine this document. So if your artifact is not included in the above, then write an issue in this repo to propose a new artifact type:
 
-## About Artifacts
+## Preamble
+
+### About Artifacts
 
 Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). 
 
@@ -17,7 +19,7 @@ The following list is sorted by artifact size, from  _smaller_ to _bigger_. Abou
 + All the items _after_ that point are _bigger_ than a research 
   (e.g. a paper might use some scripts or data)
 
-## Justifying a new artifact
+### Justifying a new artifact
 
 An author of an artifact has to offer some _commentary_ on why  a particular artifact is _worthy_ of consideration. 
 We recommend a short (say, one page) commentary explaining why anyone else should care about the artifact. That commentary should include
