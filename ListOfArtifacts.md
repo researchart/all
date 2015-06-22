@@ -16,7 +16,7 @@ If your artifact is not included in the above, then write an issue in this repo 
 1. _Checklists_ used to design the analysis (see also, the [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/);
 1. _Bibliographies_, comprehensive, annotated, and insightful (e.g. showing the development or open areas in a field);
 1. _Study instruments_ such as surveys interview scripts, etc;
-1. _Statistical tests_ used to analyze results;
+1. _Statistical tests_ used to analyze results (along with some notes explaining why or when this test is necessary);
 1. _Commentary_ on scripts used in the analysis;
 1. Examples of particularly _informative visualizations_ (e.g. Sparklines http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR )
 1. _Baseline results_ against which new work can be compared;
