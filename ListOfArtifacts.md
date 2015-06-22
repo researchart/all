@@ -8,9 +8,15 @@ For a discussion on why we might want to divide our work in to the following are
 
 ## Preamble
 
-### About Artifacts
+###  "Artifacts": Why?
 
-Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). 
+Researchers write papers but research should be more than about papers. Rather, workshops, conferences and journals should be a place to visit to find “things” that are useful for a wide range of tasks. 
+
+To these end, we ask researchers to “take some scissors” to their work and divide them into the separate “chunks”. These chunks, which we will call  “artifacts” are the support materials that enabled the creation of  results published in a paper. These artifacts are reusable units of research that can be used to  support many other research endeavors.
+
+###  "Artifact": What are they?
+
+Some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). 
 
 The following list is sorted by artifact size, from  _smaller_ to _bigger_. About two-thirds the way through the list we arrive at  "_the actual text   of an author's paper_" so:
 
@@ -19,7 +25,7 @@ The following list is sorted by artifact size, from  _smaller_ to _bigger_. Abou
 + All the items _after_ that point are _bigger_ than a research 
   (e.g. a paper might use some scripts or data)
 
-### Justifying a new artifact
+### "Artifacts" need to be _Justified)
 
 An author of an artifact has to offer some _commentary_ on why  a particular artifact is _worthy_ of consideration. 
 We recommend a short (say, one page) commentary explaining why anyone else should care about the artifact. That commentary should include
