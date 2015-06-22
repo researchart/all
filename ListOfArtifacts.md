@@ -7,6 +7,8 @@ Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tu
 The following list is sorted by artifact size, from  _smaller_ to _bigger_. 
 Note also that research artifacts can be _smaller_ than a research paper (i.e. one paper can contain many artifacts) or _bigger_ (e.g. a paper might use some scripts or data)
 
+Note that the shorter the artifact, the great the onus on the author for demonstrating that the artifact is worthy. For example for _ant-patterns_, there needs to be some support text and/or results arguing that it is an anti-pattern actually seen in practice and that the anti-pattern is a significant problem.
+
 If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
 
 1. _Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis; 
