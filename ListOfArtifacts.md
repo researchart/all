@@ -14,7 +14,7 @@ If your artifact is not included in the above, then write an issue in this repo 
 1. _Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis; 
 1. _Hypotheses_,  about expected effects in some area;
 1. _Checklists_ used to design the analysis (see also, the [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/);
-1. _Bibliographies_, some of which might be annotated;
+1. _Bibliographies_, comprehensive, annotated, and insightful (e.g. showing the development or open areas in a field);
 1. _Study instruments_ such as surveys interview scripts, etc;
 1. _Statistical tests_ used to analyze results;
 1. _Commentary_ on scripts used in the analysis;
