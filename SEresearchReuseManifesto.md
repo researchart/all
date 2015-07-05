@@ -74,7 +74,8 @@ For a full list of the kinds of artifacts we are considering see [our list of ar
 
 ## Implications for Publishing
 
-Regardless of the nature of the artifact, we assert that reserachers should be rewarded for building these artifacts and maintaining them in freely available on-line locations. Specifically, in an ideal world _each of these artifacts should be seperately accessible and reviewable by the reserach community_.  It should be possible to submit for peer review:
+Regardless of the nature of the artifact, we assert that researchers 
+ should be rewarded for building these artifacts and maintaining them in freely available on-line locations. Specifically, in an ideal world _each of these artifacts should be seperately accessible and reviewable by the reserach community_.  It should be possible to submit for peer review:
 
 + Just the motivation statement that sparked the reseach.
 + Just the data assocaited with some challenge problem. 
