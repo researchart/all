@@ -8,7 +8,11 @@ Thomas Zimmermann
 Emerson Murphy-Hill   
 Andrian Marcus</em>      
 
-**If we take a more realistic view of software engineering research, and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can open up and democratize the reserach process.**
+Summary: 
+
++ If we take a more realistic view of software engineering research, and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can optimize the research process and open it up to more participants.
++ In this approach,  researchers can get earlier reviews and feedback on  research artifacts (some of which might be very small) _before_ they are combined into a research paper.
++ For a list of proposed research artifacts, see [here](ListOfArtifacts.md). 
 
 ________
 
@@ -24,14 +28,12 @@ The traditional notion of the _research paper_ is
 + Our industrial partners are locked out of research debates since they do not have time to write these ridiculously elaborate papers.
 + Researchers spent far too much time writing papers, when they should be creating new results.
 
-
-
 We should send reserach papers to the guillotine. Chop them up, liberate their ideas, spread them around, thus granting
 broader access to their various parts.  Vive la révolution.
 
-If we divide research papers into  their smaller, more managable,  parts then this will revolutionize the computer science concept of _a conference_.  Normally, researchers write papers and present them at  conferences at which time most of their ideas are viewed once, then never used again.  This is wrong- conferences should be more than about academics strutting about on stage presenting arcane research results. Rather, they should be a place to visit to find “things” that can be reused  for a wide range of tasks. 
+If we divide research papers into  their smaller, more managable,  parts then this will revolutionize the computer science concept of _a conference_.  Normally, researchers write papers and present them at  conferences at which time most of their ideas are viewed once, then never used again.  This is wrong. 
 
-The list of potentially reusable  “things” is  quite broad ranging and includes
+Conferences should be more than about academics strutting about on stage presenting arcane research results. Rather, they should be a place to visit to find “things” that can be reused  for a wide range of tasks.  Out [list of potentially reusable  research artifacts](ListOfArtifacts.md) is  quite broad ranging and includes
 
 + Executables: e.g. standalone executable tools;
 + Non executables: 
@@ -40,10 +42,10 @@ The list of potentially reusable  “things” is  quite broad ranging and inclu
 
 So our  idea is as follows:
 
++  The international research community changes its reveiew practices and allows for the seperate peer review of  any or all research artifacts.
 +  Researchers should write their papers in on-line, freely accessible "research repositories" (one per paper) where each repository contains the full text of their paper, as well as the scripts, tools, and other supporting materials that enable others to quickly use some or all of that work for other tasks.
 + We rush to add that it is something that many reserachers are doing already. E.g. many SE reserachers develop papers using on-line tools that integrate to, say, Github. Those reserachers are already dividing their words into one repo per paper.
-+ We only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others.
-+ And we would further ask that the international research community changes its reveiew practices and allows for the seperate peer review of  any or all research artifacts within those repos.
++ We only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others. 
 
 ## Some Theory
 
