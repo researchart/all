@@ -8,13 +8,15 @@ Thomas Zimmermann
 Emerson Murphy-Hill   
 Andrian Marcus</em>      
 
-Summary: 
+## Summary
 
 + If we take a more realistic view of software engineering research, and replace the _repeatability_ goal with one of partial _reuse_ of reserach artifacts, then we can optimize the research process and open it up to more participants.
 + In this approach,  researchers can get earlier reviews and feedback on  research artifacts (some of which might be very small) _before_ they are combined into a research paper.
 + For a list of proposed research artifacts, see [here](ListOfArtifacts.md). 
 
 ________
+
+## Details
 
 <img src="img/guillotine.jpg" align=right width=500>
 
@@ -47,7 +49,7 @@ So our  idea is as follows:
 + We rush to add that it is something that many reserachers are doing already. E.g. many SE reserachers develop papers using on-line tools that integrate to, say, Github. Those reserachers are already dividing their words into one repo per paper.
 + We only ask that they add to those repos the other artificats that make that paper do-able in the first place and (possible) partially reusable by others. 
 
-## Some Theory
+##  Theory
 
 For years, software engineering research has lamented the lack of repeated results. Yet the art of software engineering continues to evolve. Today we can build bigger software systems, used by more people, that run on more computers, than ever before. Why? How? We must be doing something right, even if we are not achieving the goal of repeatable results.
 
