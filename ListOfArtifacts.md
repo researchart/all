@@ -1,20 +1,53 @@
-# List of known artifact types
+# List of known research artifact types
 
 <img src="img/list.jpg" width=400 align=right>
 
-Note that some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). For a discussion on why we might want to divide our work in to the following areas, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
 
-The following list is sorted by artifact size, from  _smaller_ to _bigger_. 
-Note also that research artifacts can be _smaller_ than a research paper (i.e. one paper can contain many artifacts) or _bigger_ (e.g. a paper might use some scripts or data)
+For a discussion on why we might want to divide our work in to the following research artifacts, see the [SE research reuse manifesto](SEresearchReuseManifesto.md).
+ 
+**IMPORTANT NOTE:** This list is not exhaustive. In fact, we store it here on Github so that the broader community can refine this document. So if your artifact is not included in the above, then write an issue in this repo to propose a new artifact type:
 
-If your artifact is not included in the above, then write an issue in this repo to propose a new artifact type.
+## Preamble
+
+###  "Artifacts": Why?
+
+Researchers write papers but research should be more than about papers. Rather, workshops, conferences and journals should be a place to visit to find “things” that are useful for a wide range of tasks. 
+
+To these end, we ask researchers to “take some scissors” to their work and divide them into the separate “chunks”. These chunks, which we will call  “artifacts” are the support materials that enabled the creation of  results published in a paper. These artifacts are reusable units of research that can be used to  support many other research endeavors.
+
+###  "Artifact": What are they?
+
+Some artifacts are executable (e.g. scripts) and some are not (e.g. tutorials). 
+
+The following list is sorted by artifact size, from  _smaller_ to _bigger_. About two-thirds the way through the list we arrive at  "_the actual text   of an author's paper_" so:
+
++ All the itemes _before_ that point are generally _smaller_ in size 
+  than a standard research paper (i.e. 10pt, two column, 10 pages).
++ All the items _after_ that point are _bigger_ than a research 
+  (e.g. a paper might use some scripts or data)
+
+### Warning: "Artifacts" need   _Justification_
+
+An author of an artifact has to offer some _commentary_ on why  a particular artifact is _worthy_ of consideration. 
+We recommend a short (say, one page) commentary explaining why anyone else should care about the artifact. That commentary should include
+
++ Synopsis, authors' contact details.
++ Optinally, consider applying the standard “Design Patterns” Coplien template to explain the artifact (name, context,  forces, solution, resulting context, rationale; for examples, see https://goo.gl/WJFmX1)
++ For large  artifacts, add the download site.
++ For smaller paper-based artifacts, attached the artifact itself to the end of the justification.
+
+Note that the _shorter_ the artifact, the great the onus on the author for demonstrating that the artifact is worthy. 
+
++ For example for _ant-patterns_, there needs to be some support text and/or results arguing that it is an anti-pattern actually seen in practice and that the anti-pattern is a significant problem.
+
+## List of artifacts
 
 1. _Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis; 
 1. _Hypotheses_,  about expected effects in some area;
 1. _Checklists_ used to design the analysis (see also, the [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/);
-1. _Bibliographies_, some of which might be annotated;
+1. _Bibliographies_, comprehensive, annotated, and insightful (e.g. showing the development or open areas in a field);
 1. _Study instruments_ such as surveys interview scripts, etc;
-1. _Statistical tests_ used to analyze results;
+1. _Statistical tests_ used to analyze results (along with some notes explaining why or when this test is necessary);
 1. _Commentary_ on scripts used in the analysis;
 1. Examples of particularly _informative visualizations_ (e.g. Sparklines http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR )
 1. _Baseline results_ against which new work can be compared;
