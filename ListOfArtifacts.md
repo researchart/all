@@ -66,6 +66,7 @@ Note that the _shorter_ the artifact, the great the onus on the author for demon
 1. _Scripts_  used to perform the analysis (the main analysis or the subsequent statistical tests or visualizations; e.g.    the  [Python Sparklines generator](https://pypi.python.org/pypi/pysparklines)). Scripts can also implement some of the patterns
   identified by the paper.
 1. _Executable  models_ that can generate exemplar data;  or which offer an executable form of current hypotheses;
+1. _Programs_ that realize the algorithms presented or used in the paper;
 1. _Delivery tools_ to let novices automatically rerun the analysis; e.g.
     + Config management files that can
        + build the system/ paper from raw material and/or
